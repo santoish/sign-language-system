@@ -2,6 +2,9 @@
 
 ##### This project allows you to **collect hand gesture data**, **train a deep learning model**, and **run real-time predictions** using your webcam. 
 
+## Demo Screenshot
+![Demo Screenshot](https://github.com/santoish/sign-language-system/blob/main/Demo.jpg)
+
 ## Step 01 : Create Virtual Environment
 ___
 ```
